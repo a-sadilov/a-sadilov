@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Connect with me
 
-[<img align="left" width="22px" src="https://img.shields.io/badge/gmail-white?logo=gmail&style=for-the-badge" />][mail]
+[<img align="left" width="auto" src="https://img.shields.io/badge/gmail-white?logo=gmail&style=for-the-badge" />][mail]
 
 
 ### Languages and Tools
