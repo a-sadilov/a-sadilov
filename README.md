@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge%logo=Csharp&logoColor=6296CC)
-![.NET](https://img.shields.io/badge/-Framework-090909?style=for-the-badge%logo=.net&logoColor=E5D3FF)
+![.NET](https://img.shields.io/badge/.net-blue?logo=.net&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge%logo=Csharp&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge%logo=Csharp&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge%logo=https://simpleicons.org/?#512BD4&logoColor=6296CC)
