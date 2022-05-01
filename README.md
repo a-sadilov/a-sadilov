@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me
+
+[<img align="left" width="22px" src="https://img.shields.io/badge/csharp-purple?logo=csharp&logoColor=white&style=for-the-badge" />][<a href="a.sadilov.official@gmail.com"]
+![.NET](https://img.shields.io/badge/.net-blue?logo=.net&logoColor=white&style=for-the-badge)
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/csharp-purple?logo=csharp&logoColor=white&style=for-the-badge)
