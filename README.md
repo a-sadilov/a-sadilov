@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![.NET](https://img.shields.io/badge/.net-blue?logo=.net&logoColor=white&style=for-the-badge)
 ![WPF](https://img.shields.io/badge/wpf-lightblue?logo=wpf&logoColor=lightblue&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-yellow?logo=python&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge%logo=https://simpleicons.org/?#512BD4&logoColor=6296CC)
+![GIT](https://img.shields.io/badge/git-orange?logo=git&style=for-the-badge)
