@@ -1,19 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Aleksander 👋
+⚡ I’m currently learning C#
 
-<!--
-**a-sadilov/a-sadilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/csharp-purple?logo=csharp&logoColor=white&style=for-the-badge)
@@ -24,9 +11,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img align="left" width="auto" src="https://img.shields.io/badge/gmail-white?logo=gmail&style=for-the-badge" />][mail]
-
-<br/>
+[<img align="left" width="auto" src="https://img.shields.io/badge/gmail-black?logo=gmail&logoColor=white&style=for-the-badge" />][mail]
 
 
 [mail]: mailto:a.sadilov.official@gmail.com
