@@ -11,8 +11,8 @@
 
 ### Connect with me
 
-[<img align="left" width="auto" src="https://img.shields.io/badge/gmail-black?logo=gmail&logoColor=white&style=for-the-badge" />][mail]
-[<img align="left" width="auto" src="https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white&style=for-the-badge" />][telegram]
+[<img width="auto" src="https://img.shields.io/badge/gmail-black?logo=gmail&logoColor=white&style=for-the-badge" />][mail]
+[<img  width="auto" src="https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white&style=for-the-badge" />][telegram]
 
 [mail]: mailto:a.sadilov.official@gmail.com
 [telegram]: @
