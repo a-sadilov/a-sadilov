@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Connect with me
 
-[<img align="left" width="22px" src="https://img.shields.io/badge/csharp-purple?logo=csharp&logoColor=white&style=for-the-badge" />][<a href="a.sadilov.official@gmail.com"]
-![.NET](https://img.shields.io/badge/.net-blue?logo=.net&logoColor=white&style=for-the-badge)
+[<img align="left" width="22px" src="https://img.shields.io/badge/csharp-purple?logo=csharp&logoColor=white&style=for-the-badge" />][mail]
+
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/csharp-purple?logo=csharp&logoColor=white&style=for-the-badge)
@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 ![WPF](https://img.shields.io/badge/wpf-lightblue?logo=wpf&logoColor=lightblue&style=for-the-badge)
 ![VStudio](https://img.shields.io/badge/visualstudio-purple?logo=visualstudio&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/git-orange?logo=git&style=for-the-badge)
+
+
+[mail]: a.sadilov.official@gmail.com
