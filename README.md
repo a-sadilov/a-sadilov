@@ -15,4 +15,4 @@
 [<img  width="auto" src="https://img.shields.io/badge/telegram-black?logo=telegram&logoColor=white&style=for-the-badge" />][telegram]
 
 [mail]: mailto:a.sadilov.official@gmail.com
-[telegram]: @
+[telegram]: @bisnachauszuvorbei
