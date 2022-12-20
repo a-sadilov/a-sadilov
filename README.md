@@ -1,5 +1,5 @@
 ### Hi there, my name is Aleksander 👋
-⚡ I’m currently learning C#
+⚡ I’m currently learning Python, also last year made made projects on C#
 
 
 ### Languages and Tools
