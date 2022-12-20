@@ -9,6 +9,7 @@
 ![VStudio](https://img.shields.io/badge/visualstudio-purple?logo=visualstudio&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/git-orange?logo=git&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-dark?logo=python&style=for-the-badge)
+![Djando](https://img.shields.io/badge/django-yellow?logo=python&style=for-the-badge)
 
 ### Connect with me
 
